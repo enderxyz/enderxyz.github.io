@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "enderxyz",
-    "repositoryName": "enderxyz.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"enderxyz","repositoryName":"enderxyz.github.io","branch":"master"},"site":{"title":"test","description":"test test test","url":"https://enderxyz.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//enderxyz.github.io/themes/Casper"}}
